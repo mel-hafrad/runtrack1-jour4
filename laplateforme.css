@@ -1,0 +1,39 @@
+
+body{
+	color: #88c1d0;
+	background-color: #106F87
+	margin:0;
+ padding:1px;
+}
+.div1{
+	background-color: #88c1d0;
+}
+.div2{
+	background-color: #275fa0;
+	height: auto;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap
+	
+}
+#id1{
+	color: #275fa0;
+}
+
+#id2{
+	color: #88c1d0;
+}
+
+.div5{
+	text-align:center; 
+}
+.div4{
+	text-align:center; 
+}
+.div6{
+	align-content: center;
+}
+
+p {
+	 font-family: Georgia, serif;
+}
